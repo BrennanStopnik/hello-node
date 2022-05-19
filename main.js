@@ -20,3 +20,7 @@ console.log("B)bbbb   e)EEEEE    H)hhhhhh e)EEEEE  r)RRR  e)EEEEE    N) nn nn  o
 console.log("B)   bb  e)EEEE     H)    hh e)EEEE  r)   RR e)EEEE     N)  nnnn o)   OO w)  WW  WW  !)  ");
 console.log("B)    bb e)         H)    hh e)      r)      e)         N)   nnn o)   OO w)  WW  WW      ");
 console.log("B)bbbbb   e)EEEE    H)    hh  e)EEEE r)       e)EEEE    N)    nn  o)OOO   w)WW WWW   !)  ");
+
+
+console.log("Be Here Now is a famous quote from Ram Dass!")
+console.log("")
