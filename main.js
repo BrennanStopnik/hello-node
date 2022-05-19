@@ -19,4 +19,4 @@ console.log("B)   bb             H)    hh                            N)nn  nn   
 console.log("B)bbbb   e)EEEEE    H)hhhhhh e)EEEEE  r)RRR  e)EEEEE    N) nn nn  o)OOO  w)      WW !)11 ");
 console.log("B)   bb  e)EEEE     H)    hh e)EEEE  r)   RR e)EEEE     N)  nnnn o)   OO w)  WW  WW  !)  ");
 console.log("B)    bb e)         H)    hh e)      r)      e)         N)   nnn o)   OO w)  WW  WW      ");
-console.log("B)bbbbb   e)EEEE    H)    hh  e)EEEE r)       e)EEEE    N)    nn  o)OOO   w)WW WWW   !)  ");                                                        
+console.log("B)bbbbb   e)EEEE    H)    hh  e)EEEE r)       e)EEEE    N)    nn  o)OOO   w)WW WWW   !)  ");
