@@ -23,4 +23,4 @@ console.log("B)bbbbb   e)EEEE    H)    hh  e)EEEE r)       e)EEEE    N)    nn  o
 
 
 console.log("Be Here Now is a famous quote from Ram Dass!")
-console.log("")
+console.log("He's My Guru. His Guru is Maharaj-ji.")
